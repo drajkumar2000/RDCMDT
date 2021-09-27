@@ -57,7 +57,4 @@ In the Postman Response below message received, using that response JSON file ha
     "description": "Invalid request"
 }
 
-
-
-
-
+Note : Due to the short duration timing not able to define the common code.
